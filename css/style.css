@@ -1,9 +1,8 @@
-.name{
-    display: flex;
-    justify-content: center;
+.page-jumbotron{
+font-family: 'Cinzel', serif;
+text-align: center; 
 }
 
-.hire-me{
-    display: flex;
-    justify-content: center;
+.navbar{
+    font-family: 'Edu TAS Beginner', cursive;
 }
