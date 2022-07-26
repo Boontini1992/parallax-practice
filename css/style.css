@@ -1,8 +1,123 @@
-.page-jumbotron{
-font-family: 'Cinzel', serif;
-text-align: center; 
-}
+.parallax {
+    /* The image used */
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/hb_disneyplus_skywalkersaga_mobile_19267_e964ed2c.jpeg?region=0,0,640,400");
+  
+    /* Set a specific height */
+    position: relative;
+    min-height: 800px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
-.navbar{
-    font-family: 'Edu TAS Beginner', cursive;
-}
+  .parallax-2 {
+    /* The image used */
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D64BD30F181B9DF24630FEDF97B0F68B1A1BB2C6E339E8C58C7ABCDD7B06F60E/scale?width=1200&aspectRatio=1.78&format=jpeg");
+  
+    /* Set a specific height */
+    position: relative;
+    min-height: 800px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .ep-1{
+    background-color: aqua;
+    opacity: 0.75;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .parallax-3 {
+    /* The image used */
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/19F23D15DB764E10EB4F2B759F520BB2F0DA28043099048B6C97367679F8348B/scale?width=1200&aspectRatio=1.78&format=jpeg");
+  
+    /* Set a specific height */
+    position: relative;
+    min-height: 800px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .ep-2{
+    background-color: aqua;
+    opacity: 0.75;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+  }
+  .parallax-4 {
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A1D55C8D5715EE355BCB9AF78027A3128243262C9FF7E211CFF9834968363D9D/scale?width=1200&aspectRatio=1.78&format=jpeg");
+  
+    position: relative;
+    min-height: 800px;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .ep-3{
+    background-color: aqua;
+    opacity: 0.75;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .parallax-5 {
+    background-image: url("https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B755863CA138A36C926869A6E638FAD3D3EB58C3D254DCF8D0D317932296AB18/scale?width=1200&aspectRatio=1.78&format=jpeg");
+  
+    position: relative;
+    min-height: 800px;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .ep-4{
+    background-color: aqua;
+    opacity: 0.75;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+  }
